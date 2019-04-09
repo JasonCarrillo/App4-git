@@ -32,7 +32,7 @@ Carrillo Osorio Jason Raul
 <!--Para accesar a apaginas de Internet-->
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
-<allow-intent href="http//*/*"/>
+<allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
